@@ -1,0 +1,1 @@
+# script_namo_inf_credits
