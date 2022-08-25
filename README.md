@@ -1,4 +1,3 @@
-
 local ScreenGui = Instance.new("ScreenGui") -- by dragon namo
 local open = Instance.new("TextButton")     -- by dragon namo
 local UICorner = Instance.new("UICorner")   -- by dragon namo
